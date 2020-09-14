@@ -1,1 +1,2 @@
-Git testing & test2 new one
+Git testing and test2 new one
+
